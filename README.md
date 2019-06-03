@@ -9,6 +9,13 @@ returning places and magnitude greater than 1.0 in a for loop.
 - IDE - PyCharm 2019.1
 - Python 3.6.1
 
+> ### Instructions:
+
+Type to run:
+```commandline
+python ~/path/main.py
+```
+
 ----
 
 MIT License
